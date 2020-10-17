@@ -1,6 +1,6 @@
 # You, have chosen... wisely 
 
-Hi there! My name is Shreyans Kulshrestha. 
+Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at the University of British Columbia. Most of my programming experience stems from my course work but I have a couple of personal projects sprinked in here and there. Most recently - CAHO.
 
 ## These are my newb stats, will get better 🖥️📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShreyansK2000&show_icons=true)
