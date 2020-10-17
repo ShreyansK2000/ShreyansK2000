@@ -33,6 +33,7 @@ Here is a (non-exhaustive) list of the technologies and platforms I have worked 
   <!--C#--><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <!--Unity--><img src="https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
+
 ## The topics suggested by GitHub
 - 🔭 I’m currently working on way too many assignments for courses
 - 🌱 I’m currently learning about topics in Cybersecurity, Firmware Development and Computer Vision
