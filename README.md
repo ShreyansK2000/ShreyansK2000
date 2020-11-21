@@ -7,7 +7,7 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 <!--
 **ShreyansK2000/ShreyansK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Programming Languages :memo:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyansK2000&layout=compact&hide=html,css,vhdl,verilog&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyansK2000&layout=compact&hide=html,css,vhdl,verilog&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Development Tools
 Here is a (non-exhaustive) list of the technologies and platforms I have worked with, roughly in descending order of experience with them
