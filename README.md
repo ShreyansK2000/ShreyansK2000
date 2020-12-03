@@ -36,11 +36,11 @@ Here is a (non-exhaustive) list of the technologies and platforms I have worked 
 </p>
 
 ## You can find me on these platforms
-
+(Hint: Probably best to use `Ctrl + Click`)
 <p>
-  <a href="https://www.linkedin.com/in/shreyansk/" target="_blank"><!--LinkedIn--><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gshreyansk4@gmail.com" target="_blank"><!--Gmail--><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/Shrek2k" target="_blank"><!--Discord--><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shreyansk/"><!--LinkedIn--><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gshreyansk4@gmail.com"><!--Gmail--><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/Shrek2k"><!--Discord--><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ## The topics suggested by GitHub
