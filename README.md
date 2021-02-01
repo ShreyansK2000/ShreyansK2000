@@ -69,6 +69,7 @@ Linux                    1 hr 41 mins        ████░░░░░░░�
 **ShreyansK2000/ShreyansK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 **Programming Languages in my repos :memo:**
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyansK2000&layout=compact&hide=html,css,vhdl,verilog&langs_count=10"/>
 
 ## Development Tools
