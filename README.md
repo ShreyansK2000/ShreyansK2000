@@ -4,6 +4,9 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 
 ## These are my newb stats, will get better 🖥️📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShreyansK2000&show_icons=true)
+
+## Wakatime Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyansK2000"/>
 <!--
 **ShreyansK2000/ShreyansK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## Programming Languages :memo:
