@@ -6,7 +6,7 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShreyansK2000&show_icons=true)
 
 ## Wakatime Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyansK2000"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyansK2000"/> -->
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
