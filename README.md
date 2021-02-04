@@ -9,7 +9,7 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyansK2000"/> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
