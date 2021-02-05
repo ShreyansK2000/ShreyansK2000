@@ -9,11 +9,11 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyansK2000"/> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 33 Contributions in the Year 2021
+> 🏆 35 Contributions in the Year 2021
  > 
 > 📦 857.6 kB Used in Github's Storage 
  > 
