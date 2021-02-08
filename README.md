@@ -13,7 +13,7 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 
 **🐱 My Github Data** 
 
-> 🏆 45 Contributions in the Year 2021
+> 🏆 47 Contributions in the Year 2021
  > 
 > 📦 857.6 kB Used in Github's Storage 
  > 
