@@ -106,8 +106,8 @@ Here is a (non-exhaustive) list of the technologies and platforms I have worked 
 </p>
 
 ## The topics suggested by GitHub
-- 🔭 I’m currently working on way too many assignments for courses
-- 🌱 I’m currently learning about topics in Cybersecurity, Firmware Development and Computer Vision
+- 🔭 I’m currently working on way too many assignments for courses - and new grad job applications
+- 🌱 I’m currently learning about Distributed Systems, Real-time Systems and Game Development!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Learning Japanese!
 
