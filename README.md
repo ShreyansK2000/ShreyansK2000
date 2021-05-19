@@ -5,65 +5,6 @@ Hi there! My name is Shreyans Kulshrestha. I'm currently a final year student at
 ## Some aggregated stats, will get better 🖥️📈
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShreyansK2000&show_icons=true)
 
-## Deeper dive into the numbers
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ShreyansK2000"/> -->
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 101 Contributions in the Year 2021
- > 
-> 📦 860.6 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 16 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-🌆 Daytime    160 commits    ████████████░░░░░░░░░░░░░   48.05% 
-🌃 Evening    105 commits    ████████░░░░░░░░░░░░░░░░░   31.53% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.41%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Vancouver
-
-💬 Programming Languages: 
-C++                      3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.78% 
-Go                       3 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.91% 
-C                        1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
-Protocol Buffer          18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
-
-🔥 Editors: 
-VS Code                  9 hrs 9 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Pump-Firmware            3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.49% 
-pa2-ShreyansK2000        3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.27% 
-cpen432w21-pa1-g3        1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
-💻 Operating System: 
-Windows                  7 hrs 24 mins       ████████████████████░░░░░   80.84% 
-Linux                    1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.16%
-
-```
-
-
-<!--END_SECTION:waka-->
-
 <!--
 **ShreyansK2000/ShreyansK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
