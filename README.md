@@ -1,4 +1,4 @@
-# You, have chosen... wisely 
+# Intro
 
 Hi there! My name is Shreyans Kulshrestha. I'm a recent graduate from the University of British Columbia, where I studied Computer Engineering. Most of my programming experience stems from my course work but I have a couple of personal projects sprinked in here and there. Most recently - CAHO.
 
@@ -45,10 +45,4 @@ Here is a (non-exhaustive) list of the technologies and platforms I have worked 
   <a href="mailto:gshreyansk4@gmail.com"><!--Gmail--><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discordapp.com/users/Shrek2k"><!--Discord--><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
-
-## The topics suggested by GitHub
-- 🔭 I’m currently working on the job hunting spree.
-- 🌱 I’m currently relearning data structures and algorithms while solving a bunch of leetcode stuff.
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Learning Japanese!
 
